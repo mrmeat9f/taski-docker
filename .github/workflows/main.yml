@@ -68,7 +68,7 @@ jobs:
         # При помощи with передаём в action параметры username и password
         with:
           username: mrmeat9f
-          password: 489fefd6
+          password: F3y9l2xvv
           # Хорошо ли держать логин и пароль прямо в коде workflow?
           # Нет, это нехорошо
       - name: Push to DockerHub
